@@ -10,16 +10,7 @@
 ## 📋 Table of Contents
 - [Overview](#-overview)
 - [Key Features](#-key-features)
-- [Architecture](#-architecture)
-- [Quick Start](#-quick-start)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Model Performance](#-model-performance)
-- [Ethical Considerations](#-ethical-considerations)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Citation](#-citation)
-- [Contact](#-contact)
+
 
 ## 🎯 Overview
 
