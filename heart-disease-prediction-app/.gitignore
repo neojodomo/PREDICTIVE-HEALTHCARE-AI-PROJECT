@@ -1,0 +1,16 @@
+
+# Ignore Data
+*.csv
+*.xlsx
+data/
+__pycache__/
+
+# Ignore Models (Too large for git sometimes)
+*.pkl
+*.h5
+
+# Ignore Environment
+.env
+venv/
+node_modules/
+.DS_Store
